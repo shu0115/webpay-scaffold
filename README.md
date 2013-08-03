@@ -1,20 +1,26 @@
-# Webpay::Scaffold
+# WebPay::Scaffold
 
-Scaffold for WebPay.
+Scaffold for WebPay API.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'webpay-scaffold'
+```rb
+gem 'webpay-scaffold'
+```
 
 And then execute:
 
-    $ bundle
+```
+bundle
+```
 
 Or install it yourself as:
 
-    $ gem install webpay-scaffold
+```
+gem install webpay-scaffold
+```
 
 ## Usage
 
