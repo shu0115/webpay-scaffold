@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["s.matsumoto0115@gmail.com"]
   spec.description   = %q{Scaffold for WebPay.}
   spec.summary       = %q{WebPay Scaffold}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/shu0115/webpay-scaffold"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
@@ -20,5 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
+
+  spec.add_dependency "webpay"
   spec.add_dependency "rails_config"
 end
