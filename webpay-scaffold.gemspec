@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Webpay::Scaffold::VERSION
   spec.authors       = ["shu0115"]
   spec.email         = ["s.matsumoto0115@gmail.com"]
-  spec.description   = %q{Scaffold for WebPay.}
+  spec.description   = %q{Scaffold for WebPay API.}
   spec.summary       = %q{WebPay Scaffold}
   spec.homepage      = "https://github.com/shu0115/webpay-scaffold"
   spec.license       = "MIT"
